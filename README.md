@@ -1,8 +1,10 @@
-### Hello, World!
+## Personal Introduction
 
-My name is Bret Bernhoft. I am a Full Stack Software Engineer committed to learning about and building tools for making the internet more interesting and secure. I started my journey in technology via WordPress and digital communications, working with analytics, media and community-driven platforms. More recently I have been developing OSINT tools, dashboards for cybersecurity insights and scalable data applications using Python, React, TypeScript and SQL. I am particularly excited about the intersection of intelligence, automation and user experience. As a result I have set out to become a Senior Artificial Intelligence Engineer.
+Hello, World! My name is Bret Bernhoft. I am a Full Stack Software Engineer committed to learning about and building tools for making the internet more interesting and secure. I started my journey in technology via WordPress and digital communications, working with analytics, media and community-driven platforms. More recently I have been developing OSINT tools, dashboards for cybersecurity insights and scalable data applications using Python, React, TypeScript and SQL. I am particularly excited about the intersection of intelligence, automation and user experience. As a result I have set out to become a Senior Artificial Intelligence Engineer.
 
-Below you will find many of the technologies I have experience building with:
+## Tech Stack
+
+Below you will find many of the technologies I have experience building software with. My background spans both frontend and backend development, as well as infrastructure and automation in homelab and production environments. I’m continually exploring new tools and frameworks to deepen my skill set and stay aligned with modern development practices.
 
 | Primary Languages | Frameworks & Libraries | Tools & Platforms |
 | - | - | - |
@@ -12,4 +14,27 @@ Below you will find many of the technologies I have experience building with:
 | - | - | - |
 | <a href="https://www.gimp.org/"><img alt="GIMP" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="30" /></a> <a href="https://www.audacityteam.org/"><img alt="Audacity" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/b952a878-d357-4145-880e-34834d265617.png" width="30" /></a> <a href="https://kdenlive.org/"><img alt="KDENLive" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/f663a67b-b52b-447a-abae-34fff1bf6c3d.png" width="30" /></a> <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/724819b5-210c-4946-9e91-72e940fe437e.png" width="30" /></a> <a href="https://www.blender.org/"><img alt="Blender" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/90000f53-7d18-49e0-a356-13eceb9110eb.png" width="30" /></a> | <a href="https://chat.openai.com/"><img alt="ChatGPT" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="30" /></a> <a href="https://github.com/features/copilot"><img alt="GitHub Copilot" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/f57455d6-73e0-4db4-b176-ee205c6417d3.png" width="30" /></a> <a href="https://www.lovable.so/"><img alt="Lovable AI" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/46c32a29-10f8-4b6f-921e-afc6deaec3d1.png" width="30" /></a> <a href="https://www.perplexity.ai/"><img alt="Perplexity" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/5fc40d4c-6952-472a-8909-65169fc39459.png" width="30" /></a> <a href="https://www.cursor.sh/"><img alt="Cursor" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/38609892-1bd7-44ac-813e-bc0da538e53f.png" width="30" /></a> <a href="https://elevenlabs.io/"><img alt="ElevenLabs" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/48a7200e-f87f-46d5-bab4-2325f7d4d912.png" width="30" /></a>|<a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="30" /></a> <a href="https://www.ruby-lang.org/"><img alt="Ruby" src="https://raw.githubusercontent.com/github/explore/master/topics/ruby/ruby.png" width="30" /></a> <a href="https://developers.google.com/apps-script"><img alt="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" width="30" /></a> <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="30" /></a> <a href="https://www.php.net/"><img alt="PHP" src="https://hosting.photobucket.com/bbcfb0d4-be20-44a0-94dc-65bff8947cf2/9499365c-2b29-4d77-814a-fdcf056ede97.png" width="30" /></a> |
 
-Thank you for visiting my GitHub profile. 
+## Current Projects
+
+This is what I'm actively working on right now. These projects reflect my ongoing learning and exploration, particularly in artificial intelligence, computer networking and data visualization.
+
+### Homelab Documentation
+
+* **Description:** Documentation for my self-hosted Kubernetes homelab. It includes a locally deployed Mistral-7B model for AI inference, alongside core services like Pi-hole, TrueNAS and OPNsense. The goal is to support hands-on DevOps, networking and infrastructure projects in a fully controlled environment.
+* **Focus Areas And Technologies:**
+    * **Containerization & Orchestration:** Docker, Kubernetes (kubeadm), Helm
+    * **AI/ML Inference:** Running Mistral-7B locally via Ollama and RAG pipelines
+    * **Networking & DNS:** OPNsense firewall, Pi-hole DNS filtering, Conditional Forwarding
+    * **Storage & Backups:** TrueNAS Core, ZFS, rsync-based backup automation
+    * **Monitoring & Observability:** Prometheus, Grafana
+    * **Security & Access:** SSH, local-only services, VLAN experimentation
+    * **Self-hosted Services:** Lightweight apps for performance testing, self-documentation
+    * **Linux System Administration:** Ubuntu Server, Linux Mint, shell scripting
+    * **Homelab Philosophy:** Building a reproducible, offline-friendly development and learning environment
+* **Current Status:** I am currently refining the Kubernetes cluster setup, focusing on stable deployment of Ollama with Mistral-7B for local AI inference. Recent breakthroughs include successful RAM upgrades on both nodes to support model performance and orchestration, along with resolving compatibility issues by downgrading from Ubuntu 24 to 22. Ongoing efforts involve improving observability with Prometheus and Grafana, tuning network settings in OPNsense and documenting infrastructure components for reproducibility and knowledge sharing.
+* **Repository:** [Link](https://github.com/devbret/homelab)
+* **Seeking to Learn/Improve:** I'm using this project to deepen my practical understanding of Kubernetes orchestration, self-hosted AI deployment and secure network architecture. I’m also aiming to improve my skills in infrastructure automation, monitoring and troubleshooting within resource-constrained environments. Long-term, I want to build fluency in DevOps workflows, IaC tools like Ansible and the principles of high-availability system design.
+
+## Conclusion
+
+Thank you for visiting my GitHub profile. This space reflects my ongoing journey as a full stack software engineer and homelab enthusiast, where I explore self-hosted infrastructure, DevOps practices and AI-powered tools. I’m always experimenting, documenting and looking to connect with others who are passionate about building resilient systems and pushing the boundaries of what’s possible with open-source technologies. Feel free to explore my projects, offer feedback or reach out if you'd like to collaborate.
