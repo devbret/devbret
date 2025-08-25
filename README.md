@@ -1,6 +1,12 @@
 ## Personal Introduction
 
-Hello, World! My name is Bret Bernhoft. I am a Full Stack Software Engineer committed to learning about and building tools for making the internet more interesting and secure. I started my journey in technology via WordPress and digital communications, working with analytics, media and community-driven platforms. More recently I have been developing OSINT tools, dashboards for cybersecurity insights and scalable data applications using Python, React, TypeScript and SQL. I am particularly excited about the intersection of intelligence, automation and user experience. As a result I have set out to become a Senior Artificial Intelligence Engineer.
+Hello, World! My name is Bret Bernhoft. I am a Full Stack Software Engineer specializing in low-code development, with a strong focus on building secure, scalable applications using Quickbase and cloud-integrated automation platforms. My background spans from WordPress deployments to enterprise-grade business systems, giving me a unique perspective on how people interact with technology at scale.
+
+Since 2021, I have led the development of production-grade Quickbase applications, engineered API integrations across services like AWS, Trello and Zapier, and delivered automation workflows that cut operational overhead. My work consistently emphasizes collaboration, user-centric interfaces and real-time reporting to empower all users.
+
+I focus on blending application development, business process automation and platform interoperability. My current toolbox includes Quickbase (Pipelines, Webhooks, APIs, Dashboards), JavaScript, React, Python, SQL and platforms such as Zapier. I also maintain a private homelab where I prototype integrations with self-hosted LLMs and AI-driven tooling for workflow intelligence.
+
+My ongoing goal is to design systems that simplify complexity, reduce manual effort and expand access to reliable, high-performing technology.
 
 ## Tech Stack
 
