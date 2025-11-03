@@ -24,9 +24,9 @@ Below you will find many of the technologies I have experience building software
 
 This is what I'm actively working on right now. These projects reflect my ongoing learning and exploration, particularly in artificial intelligence, computer networking and data visualization.
 
-### Homelab Documentation
+### Documenting Homelab Experiments
 
-* **Description:** Documentation for my self-hosted homelab. It includes a locally deployed Mistral-8x7B model for AI inference, alongside core services like Pi-hole, TrueNAS, Proxmox and OPNsense. The goal is to support hands-on DevOps, networking and infrastructure projects in a fully controlled environment.
+* **Description:** Documentation for my various self-hosted homelab tinkerings. Including a locally deployed Mistral-8x7B model for AI inference, alongside core services like Pi-hole, TrueNAS, Proxmox and OPNsense. The goal is to support hands-on DevOps, networking and infrastructure learning projects in a fully controlled environment.
 * **Focus Areas And Technologies:**
     * **Containerization And Orchestration:** Docker, Kubernetes (kubeadm), Helm
     * **AI/ML Inference:** Running Mistral-8x7B locally via Ollama and RAG pipelines
@@ -36,11 +36,10 @@ This is what I'm actively working on right now. These projects reflect my ongoin
     * **Security And Access:** SSH, local-only services, VLAN experimentation
     * **Self-Hosted Services:** Lightweight apps for performance testing, self-documentation
     * **Linux System Administration:** Ubuntu Server, Linux Mint, shell scripting
-    * **Homelab Philosophy:** Building a reproducible, offline-friendly development and learning environment
-* **Current Status:** My current focus is developing software and automations using a locally deployed Mistral 8x7B artificial intelligence model, Ollama, n8n and custom Python scripting. Recent breakthroughs include installing proper air cooling and upgrading RAM for all desktop computers within my homelab. Ongoing efforts involve improving observability with Prometheus and Grafana, tuning rules and settings in OPNsense and TrueNAS, and documenting infrastructure components for reproducibility and knowledge sharing.
+* **Current Status:** My present focus is using a locally deployed Mistral 8x7B artificial intelligence model, Ollama, n8n and custom Python scripting to explore agentic AI. Recent breakthroughs include automating tedious OSINT tasks, installing proper air cooling and upgrading RAM for all desktop computers within my homelab. Ongoing efforts involve improving observability with Prometheus and Grafana, tuning rules and settings in OPNsense and TrueNAS and documenting infrastructure for knowledge sharing.
 * **Repository:** [Link](https://github.com/devbret/homelab)
-* **Seeking To Learn/Improve:** I'm using this project to deepen my practical understanding of self-hosted AI deployment and secure computer network architecture. I’m also aiming to improve my skills in infrastructure automation, monitoring and troubleshooting. Long-term, I want to build fluency in AI development, DevOps workflows, IaC tools like Ansible and the principles of high-availability system design.
+* **Seeking To Learn/Improve:** I am intentionally using this homelab project to deepen my practical understanding of self-hosted AI deployment and secure computer network architecture. I’m also aiming to improve my skills in infrastructure automation, monitoring and troubleshooting. Long-term, I want to build fluency in AI training, DevOps workflows, IaC tools like Ansible and the principles of high-availability systems.
 
 ## Conclusion
 
-Thank you for visiting my GitHub profile. This space reflects my ongoing journey as a full stack software engineer and homelab enthusiast, where I explore self-hosted infrastructure, DevOps practices and AI-powered tools. I’m always experimenting, documenting and looking to connect with others who are passionate about building resilient systems and pushing the boundaries of what’s possible with open-source technologies. Feel free to explore my projects, offer feedback or reach out if you'd like to collaborate.
+Thank you for visiting my GitHub profile. This space reflects my ongoing journey as a full stack software engineer and homelab enthusiast, where I explore self-hosted infrastructure, DevOps practices and AI-powered tools. I’m always experimenting, documenting and looking to connect with others who are passionate about building resilient systems and pushing the boundaries of what is possible with open-source technologies. Feel free to explore my projects, offer feedback or reach out if you'd like to collaborate.
