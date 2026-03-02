@@ -1,10 +1,10 @@
 ## Personal Introduction
 
-Hello, World! My name is Bret Bernhoft. I am a Full Stack Software Engineer specializing in low-code development, with a strong focus on building secure, scalable applications using Quickbase and cloud-integrated automation platforms. My background spans from WordPress deployments to enterprise-grade business systems, giving me a unique perspective on how people interact with technology at scale.
+Hello, World! My name is Bret Bernhoft. I am a software engineer specializing in low-code development, with a strong focus on building secure, scalable applications using Quickbase and cloud-integrated automation platforms. My background spans from WordPress deployments to enterprise-grade business systems, giving me a unique perspective on how people interact with technology at scale.
 
-Since 2021, I have led the development of production-grade Quickbase applications, engineered API integrations across services like AWS, Trello and Zapier, and delivered automation workflows that cut operational overhead. My work consistently emphasizes collaboration, user-centric interfaces and real-time reporting to empower all users.
+Since 2021, I have led the development of production-ready Quickbase applications, engineered API integrations across services like AWS, Trello and Zapier and delivered automation workflows to cut operational overhead. My work consistently emphasizes collaboration, user-centric interfaces and real-time reporting to empower all users.
 
-I focus on blending application development, business process automation and platform interoperability. My current toolbox includes Quickbase (Pipelines, Webhooks, APIs, Dashboards), JavaScript, React, Python, SQL and platforms such as Zapier. I also maintain a private homelab where I prototype integrations with self-hosted LLMs and AI-driven tooling for workflow intelligence.
+I focus on blending application development, business process automation and platform interoperability. My current toolbox includes Quickbase, AI, Python, TypeScript, React, SQL and platforms such as Zapier. I also maintain a private homelab where I prototype integrations with self-hosted LLMs and AI-driven tooling.
 
 My ongoing goal is to design systems that simplify complexity, reduce manual effort and expand access to reliable, high-performing technology.
 
