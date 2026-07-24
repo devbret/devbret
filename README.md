@@ -8,7 +8,7 @@ I focus on blending application development, business process automation and pla
 
 I am motivated to design systems which simplify complexity, reduce manual effort and expand access to reliable, high-performing technology.
 
-## Primary Tech Stack
+## Professional Tech Stacks
 
 Below you will find many of the technologies I have experience building software with. My background spans both frontend and backend development, as well as infrastructure and automation in homelab and production environments. I am continually exploring new tools and frameworks to deepen my skills and stay aligned with modern development practices.
 
@@ -22,11 +22,11 @@ Below you will find many of the technologies I have experience building software
 
 ## Current Areas Of Focus
 
-This section features select projects I am working on. These projects reflect my ongoing learning and exploration, particularly in artificial intelligence, computer networking and data visualization.
+This section features select projects I am working on. Which reflect my ongoing learning and exploration, particularly in artificial intelligence, computer networking and data visualization.
 
 ### Open Source Intelligence Tools
 
-* **Description:** A growing collection of self-developed OSINT tools, data scrapers, sentiment analyzers and investigative automations. These projects emphasize open-source intelligence gathering using Python, Flask, JavaScript/D3 and lightweight automation frameworks. They support use cases such as username enumeration, internal link mapping, RSS analysis, Bluesky trend detection, keyword alerts and data visualization. My long-term goal is to build a sophisticated, modular OSINT ecosystem combining AI, automation and interactive data graphics.
+* **Description:** A growing collection of OSINT tools, data scrapers, sentiment analyzers and investigative automations. These projects emphasize open-source intelligence gathering using Python, AI, Flask, APIs, JavaScript/D3 and automation frameworks. They support use cases such as username enumeration, internal link mapping, RSS analysis, website scraping, trend detection, keyword alerts and data visualization. My goal is to build sophisticated, modular OSINT ecosystems combining AI, automation and interactive data graphics.
 
 * **Focus Areas And Technologies:**
 
@@ -34,21 +34,21 @@ This section features select projects I am working on. These projects reflect my
    
    * **Automation Pipelines:** n8n, Quickbase API integrations
    
-   * **AI-Assisted Analyses:** Sentiment scoring, topic clustering, trend detection via Claude 4 and locally hosted LLMs
+   * **AI-Assisted Analyses:** Sentiment scoring, topic clustering, trend detection via locally hosted LLMs
    
    * **Data Visualization:** D3.js (network graphs, word clouds, grid heatmaps, scorecards), Three.js, JSON/CSV pipelines
    
    * **Web Investigation Tools:** Username enumeration, programmatic SERPs, internal/external link scanning
 
-* **Current Status:** Current projects center around a hybrid AI-powered OSINT stack. Recent breakthroughs include developing real-time D3 visualizations for networked data, improving CSV-to-JSON transformations and extending OSINT tasks with locally hosted LLMs via Mistral and API-based agents. Ongoing efforts include expanding data awareness, boosting analysis quality with RAG techniques and refining visualization of collected OSINT datasets.
+* **Current Status:** Current projects center around a hybrid AI-powered OSINT stack. Recent breakthroughs include developing real-time D3 visualizations for networked data, improving CSV-to-JSON transformations and extending OSINT tasks with locally hosted LLMs via Mistral, Gemma and API-based agents. Ongoing efforts include expanding data awareness, boosting analysis quality with RAG techniques and refining visualization of collected OSINT datasets.
 
-* **Example Repository:** [Link](https://github.com/devbret/website-internal-links)
+* **Example Repository:** [Mapping A Website's Internal Links](https://github.com/devbret/website-internal-links)
 
-* **Seeking To Learn/Improve:** These OSINT projects are a platform for mastering AI-augmented intelligence gathering, advanced scraping strategies and interactive data visualization. I aim to deepen my skills in automating reconnaissance tasks, designing data pipelines, implementing OSINT agents and crafting D3-driven investigative dashboards. Long-term goals include building a modular OSINT framework capable of LLM-assisted analyses and scalable trend detection.
+* **Seeking To Learn/Improve:** These OSINT projects are a platform for mastering AI-augmented intelligence gathering, advanced scraping strategies and interactive data visualization. I aim to deepen my skills in automating reconnaissance tasks, designing data pipelines, implementing OSINT agents and crafting investigative dashboards. Long-term goals include building modular OSINT frameworks capable of LLM-assisted analyses and scalable real-time trend detection.
 
 ### Various Homelab Experiments
 
-* **Description:** Documentation for my various self-hosted homelab tinkerings. Including a locally deployed Mistral-8x7B model for AI inference, alongside core services like Pi-hole, TrueNAS, Proxmox and OPNsense. The goal is to support hands-on DevOps, networking and infrastructure learning projects in a fully controlled environment.
+* **Description:** Documentation for my various self-hosted homelab tinkerings. Including locally deployed LLMs for AI inference, alongside core services such as Pi-hole, TrueNAS, Proxmox and OPNsense. The goal is to support hands-on DevOps, networking and infrastructure learning projects in a fully controlled environment.
 
 * **Focus Areas And Technologies:**
 
@@ -64,16 +64,16 @@ This section features select projects I am working on. These projects reflect my
     
     * **Security And Access:** SSH, local-only services, VLAN experimentation
     
-    * **Self-Hosted Services:** Proxmox, apps for performance testing, self-documentation
+    * **Self-Hosted Services:** Proxmox VMs, apps for performance testing, self-documentation
     
     * **Linux System Administration:** Ubuntu Server, Linux Mint, shell scripting
 
-* **Current Status:** My present focus is using a locally deployed Mistral 8x7B artificial intelligence model, Ollama, n8n and custom Python scripting to explore agentic AI. Recent breakthroughs include automating tedious OSINT tasks, installing proper air cooling and upgrading RAM for all desktop computers within my homelab. Ongoing efforts involve improving observability with Prometheus and Grafana, tuning rules and settings in OPNsense and TrueNAS and documenting infrastructure for knowledge sharing.
+* **Current Status:** My present focus is using locally deployed artificial intelligence models, Ollama, n8n and custom Python scripting to explore agentic AI. Recent breakthroughs include automating tedious OSINT tasks, installing proper air cooling and upgrading RAM for all desktop computers within my homelab. Ongoing efforts involve improving observability with Prometheus and Grafana, tuning rules and settings in OPNsense and TrueNAS and documenting infrastructure for knowledge sharing.
 
-* **Example Repository:** [Link](https://github.com/devbret/homelab)
+* **Example Repository:** [Homelab Documentation](https://github.com/devbret/homelab)
 
-* **Seeking To Learn/Improve:** I am intentionally using this homelab project to deepen my practical understanding of self-hosted AI deployment and secure computer network architecture. I’m also aiming to improve my skills in infrastructure automation, monitoring and troubleshooting. Long-term, I want to build fluency in AI training, DevOps workflows, IaC tools like Ansible and the principles of high-availability systems.
+* **Seeking To Learn/Improve:** I am intentionally using this homelab environment to deepen my practical understanding of self-hosted AI deployment and secure computer network architecture. I’m also aiming to improve my skills in infrastructure automation, monitoring and troubleshooting. Long-term, I want to build fluency in AI training, DevOps workflows, IaC tools like Ansible and the principles of high-availability systems.
 
 ## Conclusion
 
-Thank you for visiting my GitHub profile. This space reflects my ongoing journey as a full stack software engineer and homelab enthusiast, where I explore self-hosted infrastructure, DevOps practices and AI-powered tools. I’m always experimenting, documenting and looking to connect with others who are passionate about building resilient systems and pushing the boundaries of what is possible with open-source technologies. Feel free to explore my projects, offer feedback or reach out if you'd like to collaborate.
+Thank you for visiting my GitHub profile. This space reflects my ongoing journey as a full stack software engineer and homelab enthusiast, where I explore self-hosted infrastructure, DevOps practices and AI-powered tools. I’m always experimenting, documenting and looking to connect with others who are passionate about building resilient systems and pushing the boundaries of what is possible with modern computer technologies. Feel free to explore my projects, offer feedback or reach out if you'd like to collaborate.
