@@ -1,16 +1,14 @@
 ## Personal Introduction
 
-Hello, World! My name is Bret Bernhoft. I am a software engineer specializing in low-code development, with a strong focus on building secure, scalable applications using Quickbase and cloud-integrated automation platforms. My background spans from WordPress deployments to enterprise-grade business systems, giving me a unique perspective on how people interact with technology at scale.
+Hello, World! My name is Bret Bernhoft. I am a software engineer building LLM-powered applications and data pipelines. My core stack is Python, TypeScript, React and SQL on AWS, shipped through Git and GitHub Actions CI/CD.
 
-Since 2021, I have led the development of production-ready Quickbase applications, engineered API integrations across services like AWS, Trello and Zapier and delivered automation workflows to cut operational overhead. My work consistently emphasizes collaboration, user-centric interfaces and real-time reporting to empower all users.
+Since 2021 I have led the development of production applications, from WordPress sites to internal tools on Quickbase. I also build REST API integrations connecting AWS services to other platforms, such as Trello and Zapier. Which together automate workflows cutting thousands of hours per week of manual work and powering two-way reporting for 300 colleagues.
 
-I focus on blending application development, business process automation and platform interoperability. My current toolbox includes Quickbase, AI, Python, TypeScript, React, SQL and platforms such as AWS. I also maintain a private homelab where I prototype integrations with self-hosted LLMs and AI-driven workflows.
-
-I am motivated to design systems which simplify complexity, reduce manual effort and expand access to reliable, high-performing technology.
+I run a Linux homelab where I serve self-hosted LLMs through Ollama on dedicated GPU hardware and monitor services with Prometheus and Grafana. Recent builds include Flask services for checking username availability across 100 sites, a Raspberry Pi pipeline to turn pressure-sensor data into D3.js visualizations and a lyrics-analysis app whose Python backend emits a rhyme-network graph for an interactive frontend. I am now focused on agent workflows with the Claude API, building tools to take repetitive work off people’s plates.
 
 ## Professional Tech Stacks
 
-Below you will find many of the technologies I have experience building software with. My background spans both frontend and backend development, as well as infrastructure and automation in homelab and production environments. I am continually exploring new tools and frameworks to deepen my skills and stay aligned with modern development practices.
+Below you will find many of the technologies I have experience building with. My background spans both frontend and backend development, as well as infrastructure and automation in homelab and production environments. I am continually exploring new tools and frameworks to deepen my skills and stay aligned with modern development practices.
 
 | Primary Languages | Frameworks And Libraries | Tools And Platforms |
 | - | - | - |
